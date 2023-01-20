@@ -2,4 +2,4 @@
 Basic recipe website
 
 The first project from The Odin Project.\
-This project is made using basic HTML.
+This project is made using basic HTML and CSS.
