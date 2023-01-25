@@ -1,9 +1,18 @@
-div {
+.home-image {
     background-image: url('./recipes/images/walhalla.jpg');
     background-repeat: no-repeat;
     background-position: center;
     height: 700px;
     width: auto;
+}
+
+.click-img-container {
+    width: fit-content;
+    height: fit-content;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
 }
 
 .recipe-image {
